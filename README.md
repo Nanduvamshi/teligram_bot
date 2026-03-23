@@ -2,7 +2,8 @@
 
 A Telegram bot that answers questions from a local knowledge base using RAG (Retrieval-Augmented Generation) and describes uploaded images using vision AI. All models run locally via Ollama.
 
-**Bot**: [@NVK117bot](https://t.me/NVK117bot)
+
+
 
 ## Architecture
 
